@@ -1,3 +1,5 @@
+# encoding: US-ASCII
+
 module RKelly
   module Visitors
     class EvaluationVisitor < Visitor
